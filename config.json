@@ -1,0 +1,66 @@
+{
+  "name": "Marcel Pouvreau",
+  "job": "Developper Web Full Stack",
+  "github": "marcelpouvreau",
+  "playlist": {
+    "jogos": [
+      {
+        "title": "Pew",
+        "url": "https://www.youtube.com/c/PewDota2/videos",
+        "tumb": "https://img.youtube.com/vi/K2_AzxfRzHk/hqdefault.jpg"        
+      },
+      {
+        "title": "KoKo",
+        "url": "https://www.youtube.com/watch?v=rGP4WvOualk",
+        "tumb": "https://img.youtube.com/vi/rGP4WvOualk/hqdefault.jpg"
+      },
+      {
+        "title": "Equart",
+        "url": "https://www.youtube.com/c/Equart",
+        "tumb": "https://img.youtube.com/vi/ZHDqmpQw2U0/hqdefault.jpg"
+      },
+      {
+        "title": "Elwono",
+        "url": "https://www.youtube.com/watch?v=AblYoUMlki0",
+        "tumb": "https://img.youtube.com/vi/AblYoUMlki0/hqdefault.jpg"
+      },
+      {        
+        "title": "Rizpol",
+        "url": "https://www.youtube.com/watch?v=QnVzL8e8XxA",
+        "tumb": "https://img.youtube.com/vi/QnVzL8e8XxA/hqdefault.jpg"
+      }
+    ],
+    "front-end": [
+      {
+        "title": "Filipe Deschamps",
+        "url": "https://www.youtube.com/watch?v=dZJbORri0ro",
+        "tumb": "https://img.youtube.com/vi/dZJbORri0ro/hqdefault.jpg"
+      },
+      {
+        "title": "Mario Souto - Dev Soutinho",
+        "url": "https://www.youtube.com/watch?v=jOAU81jdi-c",
+        "tumb": "https://img.youtube.com/vi/jOAU81jdi-c/hqdefault.jpg"
+      },
+      {
+        "title": "Rafaella Ballerini",
+        "url": "https://www.youtube.com/watch?v=dp0zB4n3MUs",
+        "tumb": "https://img.youtube.com/vi/dp0zB4n3MUs/hqdefault.jpg"
+      },
+      {
+        "title": "Código Fonte TV",
+        "url": "https://www.youtube.com/watch?v=z4WQp7gbwTk",
+        "tumb": "https://img.youtube.com/vi/z4WQp7gbwTk/hqdefault.jpg"
+      },
+      {
+        "title": "YoanDev",
+        "url": "https://www.youtube.com/watch?v=jPi9HcP7fU8&t=8s",
+        "tumb": "https://img.youtube.com/vi/jPi9HcP7fU8/hqdefault.jpg"
+      },
+      {
+        "title": "Alura Cursos Online",
+        "url": "https://www.youtube.com/watch?v=imB0QVoNrGc",
+        "tumb": "https://img.youtube.com/vi/imB0QVoNrGc/hqdefault.jpg"
+      }
+    ]
+  }
+}
